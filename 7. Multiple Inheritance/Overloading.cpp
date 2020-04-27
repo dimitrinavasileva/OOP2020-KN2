@@ -93,7 +93,6 @@ int main() {
     const Test t2(20);
     t1.fun();
     t2.fun();
-    return 0;
 
     return 0;
 }
